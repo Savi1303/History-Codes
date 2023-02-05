@@ -1,0 +1,172 @@
+.nav-btn, .nav-btn2, .head-btn, .head-btn2 {
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    padding: 7px 14px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.nav-btn2, .head-btn {
+    background: rgba(55, 43, 122, 0.882);
+    color: white;
+    border-radius: 5px;  
+}
+.nav-btn2, :hover {
+ color: rgba(28, 19, 78, 0.882)
+}
+
+.head-item, .head-style {
+    color: rgba(55, 43, 122, 0.882);
+}
+
+
+.para-item {
+    color: rgb(0, 0, 0,  0.3);
+}
+.img-btn {
+    width: 100%;
+}
+.img-btn2 {
+    width: 60%;
+}
+
+x
+
+.head-btn{
+text-transform: uppercase;
+padding: 7px, 35px;
+}
+.exp, .exp2, .agend {
+    margin: 5% auto ;
+}
+
+.card-section h3, .emp {
+    color: rgba(55, 43, 122, 0.882);
+}
+
+.para-item2 {
+    color: rgba(55, 43, 122, 0.882);
+    font-size: xx-large;
+}
+/* .card-section p {
+    color: rgb(0, 0, 0,  0.3);
+} */
+
+.card-body {
+    text-align: center;
+}
+
+.card-item {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+.card-item-footer {
+    background: #ee5564d3;
+    padding: 2px;
+}
+
+.my-section {
+    background: #5000CA;
+}
+
+.head-style {
+    position: relative;
+    top: 40%;
+    right: 60%; 
+    font-size: xx-large;
+}
+
+@media (min-height: 680px), screen and (orientation :portrait) {
+ .head-style {
+    position: initial;
+    left: 40%;
+    bottom: 70%;
+ }
+}
+
+.text-card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 40px 58px;
+}
+
+.fa-solid{
+    padding: 6px 12px;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+    font-weight: 300;
+    font-size: 13px;
+    color: #fff ;
+    cursor: pointer
+}
+.fa-solid:hover {
+    background: #5000CA;
+    color: royalblue;
+}
+.card-item-head{
+    background: rgb(221, 115, 177);
+}
+
+.section-s {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.para-style {
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding-top: 10px;
+    margin: 20px;
+    text-size-adjust: bold;
+}
+.card-item-head2{
+    background: rgb(79, 124, 209);
+}
+
+.card-item-head3{
+    background: rgb(214, 60, 49);
+}
+.image-style {  
+    width: -50%;
+}
+
+.text-card3 {
+    background: rgb(253, 252, 252);
+}
+.sav {
+    text-align: right;
+    margin-top: 5%;
+    color: floralwhite;
+    margin-right: 40px;
+}
+
+.clear {
+    background-color: #24094d;;
+    margin-top: 5%;
+    margin-right: 40px;
+}
+.para-item3 {
+    color: floralwhite;
+}
+ 
+.rave {
+    background: #245fce;
+    border-radius: 5px;  
+
+}
+ .sav1 {
+    font-size: large;
+    color: mistyrose;
+    margin-bottom: -5px;
+    margin-top: 24px;
+    margin-left: 40px;
+ }
+ .sav2 {
+    color: mistyrose;
+    margin-left: 40px;
+}
+
+.head-btn2 {
+    background: white;
+    color:  rgba(55, 43, 122, 0.882);
+    border-radius: 5px; 
+    font-weight: 700; 
+    margin-top: 24px;
+}
