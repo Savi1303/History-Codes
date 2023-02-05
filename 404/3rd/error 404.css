@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Short Stack", sans-serif;
+    background: url('/1st/spec.png') no-repeat center center /cover;
+}
+
+
+.bt {
+   font-weight: 500;
+   margin-left: 25vh;
+   margin-top: 58vh;
+}
+.p {
+    margin-left: 65vh;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.b {
+    cursor: pointer;
+    color:rgb(255, 183, 0) ;
+}
+.imb {
+    margin-left: 30vh;
+    margin-top: -48vh;
+    width: 63%;
+} 
+
+.vh {
+    font-weight: 1000;
+    font-size: xx-large;
+}
+
+.nd {
+    margin-left: -19vh;
+}

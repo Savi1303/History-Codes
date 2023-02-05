@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Short Stack", sans-serif;
+    background: url('/1st/spec.png') no-repeat center center /cover;
+}
+
+
+.nd {
+    margin-left: -19vh;
+}
+
+.vh {
+    font-weight: 1000;
+    font-size: xx-large;
+    cursor: context-menu ;
+} 
+
+.he1 , .p{
+    color: crimson;
+    font-weight: 800;
+    margin-top: 2h;
+    margin-left: -4vh;
+}
+.p{
+    margin-top: 4vh;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    font-weight: bolder;
+}
+.b {
+    cursor: pointer;
+    color:rgb(255, 183, 0) ;
+    outline: 0;
+    border: 0;
+    box-shadow: 0; 
+    font-weight: bolder;
+}
+
+.b:hover {
+    color: rgb(0, 157, 255);
+   }
+.sign-img {
+    margin-top: -18vh;
+    margin-left: 5vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.pr {
+    font-size: xx-large;
+    
+}
+
+.px {
+    font-size: larger;   
+}
+
+.imb {
+    width: 90vh;
+}
+
+
+
+
+
+@media screen and (max-width: 650px) {
+    .imb {
+        width: 50vh;
+    }
+    .container {
+        margin: 3vh;
+    }
+
+} */

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Short Stack", sans-serif;
+    background: rgba(127, 9, 230, 0.859);
+}
+
+.bt {
+    margin-left: 8vh;
+    margin-top: 40vh;
+}
+.wr {
+    margin-left: 100vh;
+    margin-top: -45vh;
+}
+.p {
+    margin-left: 40vh;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.b {
+    cursor: pointer;
+    color:rgb(255, 183, 0) ;
+}
+
