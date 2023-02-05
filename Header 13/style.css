@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+body {
+    font-family: 'DM Sans', sans-serif;
+   }
+
+.header-menu {
+    margin-top: 50px;
+}
+
+
+.brand-logo {
+    margin-right: 140px;
+    margin-left: 180px;
+}
+
+.menu-list {
+    margin-left: 150px;
+    margin-right: 0;
+}
+
+.get-btn {
+    margin-left: 140px;
+    background-color: #482BE7;
+    border-radius: 100px;
+    color: #fff;
+    margin-top: -10px;
+}
+
+.get-btn .get-btn1 {
+    color: #ffff;
+}
+
+ul li {
+    margin-right: 5px;
+}
+
+.logo-txt{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    color: #fff;
+}
+
+.txt-ft {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #fff;
+}
+
+.nav-item .fa {
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+body, html{
+    height: 100%;
+}
+
+body{
+    background:
+    url(./photos/Image.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    max-width: 1400px;
+    max-height: 650px;
+    left: 0px;
+    top: 0px;
+    width: -webkit-fill-available;
+    opacity: 100;
+  }
+
+.head-item{
+    color: rgb(255, 255, 255);
+    text-align: center;
+  font-size: larger;
+}
+.para-item {
+    color: rgb(255, 255, 255);
+    text-align: center;   
+    font-size: x-large;
+}
+ 
