@@ -1,0 +1,29 @@
+.container {
+ margin:  0 40px;
+}
+
+.sav {
+    width: 60%;
+}
+
+.box {
+    display: flex;
+}
+
+.slideshoes {
+    display: flex;
+
+}
+
+.slideshoes img {
+    margin: 5% auto;
+    margin-bottom: 0%;
+}
+
+.h2 {
+    color: rgb(12, 226, 12);
+}
+
+.des {
+    margin: 12% auto;
+}
